@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build output
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.log
+*.user
